@@ -4,8 +4,7 @@
     "rootDir": "./src",
     "types": [
       "webpack-env",
-      "jest",
-      "react-syntax-highlighter"
+      "jest"
     ]
   },
   "include": [
